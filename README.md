@@ -4,7 +4,7 @@
 
 | Command|
 |-|-|
-|Padrão de Projeto|-|
+|Padrão de Projeto|aaaaa|
 
 Arquivo - .env :
     ```.env
