@@ -2,12 +2,12 @@
 - Soluções clássicas baseadas no livro Gof (Gang of four, "A gangue dos 4")
 - São 23 soluções clássicas divididas em três categorias (Criação, Estrutura, Comportamento).
 
-| Command|
-|-|-|
-|Padrão de Projeto|aaaaa|
+| Solução clássica | Command |
+| - | - |
+| Padrão de Projeto | aaaaa |
 
 Arquivo - .env :
-    ```.env
+    ```
     DATABASE_URL="mysql://root@localhost:3306/trab-gof"
     PORT=6542
     ```
