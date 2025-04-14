@@ -1,7 +1,7 @@
 ## Design Patterns
 - Soluções clássicas baseadas no livro Gof (Gang of four, "A gangue dos 4")
 
-# Command |
+# Command 
 ![conceito básico](./images/print5.png) |
 
 ### Estrutura do Command
