@@ -1,7 +1,9 @@
 ## Design Patterns
 - Soluções clássicas baseadas no livro Gof (Gang of four, "A gangue dos 4")
 
-# Command 
+# Command
+O Command encapsula uma solicitação como um objeto, permitindo parametrizar clientes com diferentes solicitações, enfileirar ou registrar solicitações, e oferecer suporte a operações como desfazer/refazer.
+
 ![conceito básico](./images/print5.png) 
 
 ### Estrutura do Command
