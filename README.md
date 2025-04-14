@@ -25,7 +25,7 @@ npm i express cors dotenv
 prisma init --datasource-provider mysql
 ```
 
-Arquivo - .env :
+.env :
 
 ```js
 DATABASE_URL="mysql://root@localhost:3306/trab-gof"
