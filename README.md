@@ -2,7 +2,7 @@
 - Soluções clássicas baseadas no livro Gof (Gang of four, "A gangue dos 4")
 - São 23 soluções clássicas divididas em três categorias (Criação, Estrutura, Comportamento).
 
-### | Command|
+| Command|
 |-|-|
 |Padrão de Projeto|-|
 
