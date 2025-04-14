@@ -6,6 +6,10 @@ O Command encapsula uma solicitação como um objeto, permitindo parametrizar cl
 
 ![conceito básico](./images/print5.png) 
 
+### Exemplo:
+O Command é como um controle remoto. Você aperta o botão (Invoker), que envia o comando (Command) para a TV (Receiver) fazer alguma coisa. Assim, quem aperta não precisa saber como a TV funciona por dentro.
+![exemplo](./images/print8.png)
+
 ### Estrutura do Command
 | Componente      | Função                                                                                         |
 | --------------- | ---------------------------------------------------------------------------------------------- |
